@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="welcome">Bienvenue, quel est votre nom ?</string>
+    <string name="please_type">Merci d\'entrer votre nom</string>
+    <string name="letsplay">C\'est parti</string>
+    <string name="question1">Quel est la capitale de la Turquie ?</string>
+    <string name="answer1">Istanbul</string>
+    <string name="answer2">Ankara</string>
+    <string name="answer3">Antalya</string>
+    <string name="answer4">Alep</string>
+    <string name="question2">Lorsque Michael Jordan jouait aux Chicago Bulls, combien de fois a t\'il été champion NBA?</string>
+    <string name="answer21">3</string>
+    <string name="answer22">5</string>
+    <string name="answer23">6</string>
+    <string name="answer24">9</string>
+    <string name="question3">Quel est le premier pays à avoir gagné la première coupe du monde en 1930?</string>
+    <string name="answer31">Uruguay</string>
+    <string name="answer32">Brésil</string>
+    <string name="answer33">Allemagne</string>
+    <string name="answer34">Argentine</string>
+    <string name="question4">En quelle année le premier homme a marché sur la lune ?</string>
+    <string name="answer41">1958</string>
+    <string name="answer42">1962</string>
+    <string name="answer43">1967</string>
+    <string name="answer44">1969</string>
+    <string name="question5">En quelle année est sorti le premier Iphone ?</string>
+    <string name="answer51">2003</string>
+    <string name="answer52">2005</string>
+    <string name="answer53">2007</string>
+    <string name="answer54">2009</string>
+    <string name="question6">Quel était le premier nom de Twitter ?</string>
+    <string name="answer61">Twitty</string>
+    <string name="answer62">Twttr</string>
+    <string name="answer63">Birdy</string>
+    <string name="answer64">BlueTweet</string>
+    <string name="question7">Quelle planète a la plus grosse gravité ?</string>
+    <string name="answer71">Jupiter</string>
+    <string name="answer72">Terre</string>
+    <string name="answer73">Pluton</string>
+    <string name="answer74">Mercure</string>
+    <string name="question8">Quel pays a inventé le thé ?</string>
+    <string name="answer81">Japon</string>
+    <string name="answer82">Angleterre</string>
+    <string name="answer83">Vietnam</string>
+    <string name="answer84">Chine</string>
+    <string name="question9">Quelle organe a 4 cavités ?</string>
+    <string name="answer91">Coeur</string>
+    <string name="answer92">Cerveau</string>
+    <string name="answer93">Foie</string>
+    <string name="answer94">Reins</string>
+    <string name="goodA">Bonne réponse!</string>
+    <string name="badA">Mauvaise réponse!</string>
+    <string name="congrats">Felicitation</string>
+    <string name="score">Votre score est : </string>
+    <string name="onFour">sur 4.</string>
+    <string name="greetuser">"Bon retour, %1$s \nVotre score est de : %2$d \nVotre score de la partie précédente était %3$d \nVotre meilleur score est de : %4$d \nferiez-vous mieux ??"</string>
+
+
+</resources>
